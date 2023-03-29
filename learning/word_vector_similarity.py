@@ -25,3 +25,5 @@ token_word = "bread"
 texts = "I like eating egg mayo sandwich with crisps for lunch. However, I decided to go for hamburger today."
 
 show_similarity(token_word, texts)
+
+show_similarity("iPhone", "iPhone runs on iOS software. Samsung uses Android.")
