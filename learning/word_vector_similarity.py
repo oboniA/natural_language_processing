@@ -4,7 +4,8 @@
         python -m pip install spacy
         python -m spacy download en_core_web_X  (X - sm/md/lg)
 
-        https://realpython.com/natural-language-processing-spacy-python/
+        Referencesd: https://realpython.com/natural-language-processing-spacy-python/
+                     https://www.youtube.com/watch?v=vyohzuTkty8&t=73s
 """
 
 import spacy
